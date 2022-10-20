@@ -1,0 +1,39 @@
+.top-header {
+    background-color: red; width: 100%; height: 100%
+}
+.date {
+    color: grey;
+}
+.slash {
+    color: lightgray;
+}
+.default {
+    border-color: #e7e7e7;
+    color: grey;
+}
+
+.default:hover {
+    background: #e7e7e7;
+    color: grey;
+    border: lightgrey;
+}
+.search {
+    position: absolute;
+    right: 0px;
+}
+.login {
+    color: grey;
+}
+a {
+    color: black;
+}
+a:hover {
+    color:#9f224e;
+}
+h5, h4 {
+    font-family: Serif;
+    font-weight: bold;
+}
+h6 {
+    color: #9f224e;
+}
